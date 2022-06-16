@@ -1,0 +1,80 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image:linear-gradient( to right,rgb(238, 6, 118),purple)
+    
+    
+}
+.gridprop{
+    display: flex;
+    margin: 20px;
+    
+}
+.textdes{
+    width: 300px;
+    height: 30px;
+    border: 1px solid greenyellow;
+    background-color:rgb(220, 220, 18);
+    text-align: center;
+    color:black;
+    font-weight: bolder;
+    font-display: uppercase;
+    margin-right: 10px;
+    padding:10px 10px 5px 5px;
+    font-size:larger;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .bgimage{
+        display: block;
+        background-image: url(taco1.jpg);
+        background-size: cover;
+        background-attachment:scroll;
+        background-position: center;
+        background-repeat: no-repeat;
+        width:900px;
+        border: 1px solid black;
+        height:400px;
+        margin: 20px;
+        
+    }
+
+.cont1{
+    width: 142px;
+    height: 20px;
+    border: 1px solid greenyellow;
+    background-color:rgb(220, 220, 18);
+    color:black;
+    font-weight: bold;
+    margin: 120px 0 0 30px;
+    padding:0;
+    font-size:large;
+    text-align: center;
+}
+.cont2{
+    width: 110px;
+    height: 15px;
+    border: 1px solid greenyellow;
+    background-color:rgb(220, 220, 18);
+    color:black;
+    font-weight: bold;
+    margin-left: 30px;
+    padding:0;
+    font-size:small;
+    text-align: center;
+}
+.textdes1{
+    width: 450px;
+    height: 150px;
+    border: 1px solid greenyellow;
+    background-color:white;
+    text-align: center;
+    color:black;
+    font-weight: bolder;
+    font-display: uppercase;
+    margin-right: 10px;
+    padding:10px 10px 5px 5px;
+    font-size:larger;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
