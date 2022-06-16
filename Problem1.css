@@ -1,0 +1,97 @@
+
+        body{
+            padding: 0;
+            margin: 0;
+        }
+        .bgimage{
+            height: 800px;
+            width: 100%;
+            background-image: url("https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.jpg?w=2000");
+            background-size: cover;
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+        h1{
+            text-align: center;
+            padding: 0;
+            margin: 0;
+            position: absolute;
+            top: 40%;
+            left: 38%; 
+            color: white;
+            border: 1px solid gray;
+            background-color: gray;
+        }
+        .bgimage2{
+            height: 200px;
+            width: 100%;
+            background-image: url(https://images.pexels.com/photos/38537/woodland-road-falling-leaf-natural-38537.jpeg?auto=compress&cs=tinysrgb&w=600);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100%;
+        }
+        h4{
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+            padding-top: 15px;
+            margin: 0;
+        }
+        .textdesign{
+            text-align: center;
+            margin: 25px;
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            padding-bottom: 15px;
+        }
+        .bgimage3{
+            height: 200px;
+            width: 100%;
+            background-image: url(https://media.istockphoto.com/photos/leaf-background-picture-id844226534?k=20&m=844226534&s=612x612&w=0&h=0s5eix34N-rY2K7kHmdCG5ANURpfjWWFeJ0ITW6jIdI=);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100%;
+            margin-top: -30px;
+        }
+        .textdesign2{
+            text-align: center;
+            margin: 25px;
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            padding-bottom: 20px;
+            color: whitesmoke;
+             }
+        .bgimage4{
+        height: 200px;
+        width: 100%;
+        background-image: url(https://images.pexels.com/photos/1766838/pexels-photo-1766838.jpeg?cs=srgb&dl=pexels-baskin-creative-studios-1766838.jpg&fm=jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100%;
+        margin-top: -30px;
+        }
+        #imgtext{
+            color: azure;
+            font-size:25px;
+            text-align: center;
+            position: relative;
+            top: 70%;
+            left: 40%;
+            margin: 0;
+            padding: 0;
+            font-family:monospace;
+            letter-spacing: 10px;
+        
+        }
+        #imgtext1{
+            color: azure;
+            font-size:25px;
+            text-align: center;
+            position: relative;
+            top: 20%;
+            left: 40%;
+            margin: 0;
+            padding: 0;
+            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            letter-spacing: 10px;
+        }
+        
+ 
